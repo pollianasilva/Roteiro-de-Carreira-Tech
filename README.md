@@ -21,6 +21,9 @@ Planejar carreira em tech a partir das informações passadas por usuário.
 - Montar e tentar seguir o plano de carreira criado
 
 **DICA**: Monte de acordo com seu tempo e mantenha a constância 🚀
+
+
+
 [*Créditos*](https://github.com/digitalinnovationone/copilot-prompts) 
 
 
